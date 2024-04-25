@@ -1,0 +1,61 @@
+employees:
+  - name: akshat mittal
+    designation: wvgevwvwv
+    description: afnewfew wefenvwv ewenewiv eiewnii4gv4 4fgi4jg4g4g wffwfgewgieg ewgw ew egwnge weigoegwe weofwe ewgwgwegweg weiwfjefef fwefwefwe ewfewfw
+    image_link: https://upload.wikimedia.org/wikipedia/commons/1/1c/Jay-Z_Shankbone_2010_Cropped.jpg
+    mail_id: afnefefeefe@oet.com
+  - name: another_name
+    designation: another_designation
+    description: another_description
+    image_link: https://upload.wikimedia.org/wikipedia/commons/4/49/Kendrick_Lamar_-_Openair_Frauenfeld_2019_05.jpg
+    mail_id: another_mail@domain.com
+  - name: John Doe
+    designation: Senior Engineer
+    description: A highly skilled engineer with expertise in various programming languages.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/4/47/Mark_Zuckerberg_%282019%29.jpg
+    mail_id: john.doe@example.com
+  - name: Jane Smith
+    designation: Marketing Manager
+    description: Experienced marketing professional with a proven track record of successful campaigns.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/0/0e/Bill_Gates_July_2014.jpg
+    mail_id: jane.smith@example.com
+  - name: Michael Johnson
+    designation: Financial Analyst
+    description: Detail-oriented financial analyst with expertise in financial modeling and forecasting.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/8/8b/Sundar_Pichai_%282018%29.jpg
+    mail_id: michael.johnson@example.com
+  - name: Emily Wang
+    designation: HR Manager
+    description: HR professional with extensive experience in recruitment and employee relations.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/e/e4/Satya_Nadella_%28cropped%29.jpg
+    mail_id: emily.wang@example.com
+  - name: Alex Brown
+    designation: Product Manager
+    description: Product management expert with a passion for innovation and customer satisfaction.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/0/02/Tim_Cook_June_2019_cropped.jpg
+    mail_id: alex.brown@example.com
+  - name: Sophia Garcia
+    designation: Graphic Designer
+    description: Creative graphic designer with a keen eye for detail and a strong aesthetic sense.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/7/78/Satya_Nadella_in_2018.jpg
+    mail_id: sophia.garcia@example.com
+  - name: William Lee
+    designation: Sales Executive
+    description: Results-driven sales executive with a proven ability to exceed targets and drive revenue growth.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/c/c8/Elon_Musk_2015.jpg
+    mail_id: william.lee@example.com
+  - name: Olivia Martinez
+    designation: Project Coordinator
+    description: Organized project coordinator with excellent communication and coordination skills.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/6/6d/Jeff_Bezos%2C_founder_of_Blue_Origin%2C_2017.jpg
+    mail_id: olivia.martinez@example.com
+  - name: Daniel Kim
+    designation: Software Developer
+    description: Skilled software developer with expertise in full-stack web development.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/5/5f/Bill_Gates_%28June_2015%29.jpg
+    mail_id: daniel.kim@example.com
+  - name: Michelle Chen
+    designation: Content Writer
+    description: Creative content writer with a passion for storytelling and digital marketing.
+    image_link: https://upload.wikimedia.org/wikipedia/commons/6/6b/Sundar_Pichai_%28cropped%29.jpg
+    mail_id: michelle.chen@example.com
