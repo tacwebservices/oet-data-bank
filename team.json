@@ -94,5 +94,21 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Michelle+Chen",
     "mail_id": "michelle.chen@example.com",
     "redirect_link": "https://www.example.com/michelle_chen"
+  },
+  {
+    "name": "Dr. Martha Maria Frysztacki",
+    "designation": "Head of Energy and Power System Modelling, Co-founder",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://placehold.co/600x400/orange/black?text=Michelle+Chen",
+    "mail_id": "https://openenergytransition.org/assets/img/people/marthamaria_cropped.jpg",
+    "redirect_link": "https://www.linkedin.com/in/marthamaria93/"
+  },
+  {
+    "name": "Dr. Maximilian Parzen",
+    "designation": "CEO, Co-founder",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/maxparzen_cropped.jpg",
+    "mail_id": "max.parzen@openenergytransition.org",
+    "redirect_link": "https://max-parzen.github.io/"
   }
 ]
