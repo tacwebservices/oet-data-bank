@@ -1,6 +1,6 @@
 [
   {
-    "name": "akshat mittal",
+    "name": "jhon doe christ",
     "designation": "wvgevwvwv",
     "description": "afnewfew wefenvwv ewenewiv eiewnii4gv4 4fgi4jg4g4g wffwfgewgieg ewgw ew egwnge weigoegwe weofwe ewgwgwegweg weiwfjefef fwefwefwe ewfewfw",
     "image_link": "https://placehold.co/600x400/orange/black?text=akshat+mittal",
@@ -110,5 +110,77 @@
     "image_link": "https://openenergytransition.org/assets/img/people/maxparzen_cropped.jpg",
     "mail_id": "max.parzen@openenergytransition.org",
     "redirect_link": "https://max-parzen.github.io/"
+  },
+  {
+    "name": "Dr. Ekaterina Fedotova",
+    "designation": "Head of Energy and Climate System Modelling",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/ekaterinafedotova_cropped.jpg",
+    "mail_id": "ekaterina.fedotova@openenergytransition.org",
+    "redirect_link": "https://max-parzen.github.io/"
+  },
+  {
+    "name": "Dr. Fabian Hofmann",
+    "designation": "Senior Optimization and Energy System Modelling Expert",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/fabianhofmann_cropped.jpg",
+    "mail_id": "fabian.hofmann@openenergytransition.org",
+    "redirect_link": "https://max-parzen.github.io/"
+  },
+  {
+    "name": "Asst. Prof. Dr. Davide Fioriti",
+    "designation": "Expert in Global Energy System Modelling,, Co-founder ",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/davidefioriti_cropped.jpg",
+    "mail_id": "davide.fioriti@openenergytransition.org",
+    "redirect_link": "https://max-parzen.github.io/"
+  },
+  {
+    "name": "Dr. Siddharth Krishna",
+    "designation": "Computer Scientist & Software Engineer",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/siddharth.jpg",
+    "mail_id": "siddharth.krishna@openenergytransition.org",
+    "redirect_link": "https://max-parzen.github.io/"
+  },
+  {
+    "name": "Dr. Fabrizio Finozzi",
+    "designation": "Big Data Software Developer",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/ff_cropped.jpg",
+    "mail_id": "fabrizio.finozzi@openenergytransition.org",
+    "redirect_link": "https://github.com/finozzifa"
+  },
+  {
+    "name": "Yerbol Akhmetov",
+    "designation": "Big Data Software Developer",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/akhmetovyerbol_cropped.jpg",
+    "mail_id": "yerbol.akhmetov@openenergytransition.org",
+    "redirect_link": "https://github.com/finozzifa"
+  },
+  {
+    "name": "Akshat Mittal",
+    "designation": "Big Data Software Developer",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/akshatmittal_cropped.jpg",
+    "mail_id": "akshat.mittal@openenergytransition.org",
+    "redirect_link": "https://github.com/finozzifa"
+  },
+  {
+    "name": "Hazem Abdel-Khalek",
+    "designation": "Expert in Sector-Coupled Energy System Modelling, Co-founder",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/hazemabdelkhalek_cropped.jpg",
+    "mail_id": "hazem.abdelkhalek@openenergytransition.org",
+    "redirect_link": "https://github.com/finozzifa"
+  },
+  {
+    "name": "Emmanuel Bolarinwa",
+    "designation": "AI Engineer",
+    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "image_link": "https://openenergytransition.org/assets/img/people/emmanuel_cropped.jpg",
+    "mail_id": "gbotemibolarinwa@gmail.com",
+    "redirect_link": "https://github.com/finozzifa"
   }
 ]
