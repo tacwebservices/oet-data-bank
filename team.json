@@ -5,7 +5,9 @@
     "description": "afnewfew wefenvwv ewenewiv eiewnii4gv4 4fgi4jg4g4g wffwfgewgieg ewgw ew egwnge weigoegwe weofwe ewgwgwegweg weiwfjefef fwefwefwe ewfewfw",
     "image_link": "https://placehold.co/600x400/orange/black?text=akshat+mittal",
     "mail_id": "afnefefeefe@oet.com",
-    "redirect_link": "https://www.example.com/akshat_mittal"
+    "redirect_link": "https://www.example.com/akshat_mittal",
+    "lat": 37.7749, 
+    "lon": -122.4194
   },
   {
     "name": "another_name",
@@ -13,7 +15,9 @@
     "description": "another_description",
     "image_link": "https://placehold.co/600x400/orange/black?text=another_name",
     "mail_id": "another_mail@domain.com",
-    "redirect_link": "https://www.example.com/another_name"
+    "redirect_link": "https://www.example.com/another_name",
+    "lat": -33.8688, 
+    "lon": 151.2093
   },
   {
     "name": "John Doe",
@@ -21,7 +25,9 @@
     "description": "A highly skilled engineer with expertise in various programming languages.",
     "image_link": "https://placehold.co/600x400/orange/black?text=John+Doe",
     "mail_id": "john.doe@example.com",
-    "redirect_link": "https://www.example.com/john_doe"
+    "redirect_link": "https://www.example.com/john_doe",
+    "lat": 51.5074, 
+    "lon": -0.1278
   },
   {
     "name": "Jane Smith",
@@ -29,7 +35,9 @@
     "description": "Experienced marketing professional with a proven track record of successful campaigns.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Jane+Smith",
     "mail_id": "jane.smith@example.com",
-    "redirect_link": "https://www.example.com/jane_smith"
+    "redirect_link": "https://www.example.com/jane_smith",
+    "lat": 35.6895, 
+    "lon": 139.6917
   },
   {
     "name": "Michael Johnson",
@@ -37,7 +45,9 @@
     "description": "Detail-oriented financial analyst with expertise in financial modeling and forecasting.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Michael+Johnson",
     "mail_id": "michael.johnson@example.com",
-    "redirect_link": "https://www.example.com/michael_johnson"
+    "redirect_link": "https://www.example.com/michael_johnson",
+    "lat": -23.5505, 
+    "lon": -46.6333
   },
   {
     "name": "Emily Wang",
@@ -45,7 +55,9 @@
     "description": "HR professional with extensive experience in recruitment and employee relations.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Emily+Wang",
     "mail_id": "emily.wang@example.com",
-    "redirect_link": "https://www.example.com/emily_wang"
+    "redirect_link": "https://www.example.com/emily_wang",
+    "lat": 40.7128, 
+    "lon": -74.0060
   },
   {
     "name": "Alex Brown",
@@ -53,7 +65,9 @@
     "description": "Product management expert with a passion for innovation and customer satisfaction.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Alex+Brown",
     "mail_id": "alex.brown@example.com",
-    "redirect_link": "https://www.example.com/alex_brown"
+    "redirect_link": "https://www.example.com/alex_brown",
+    "lat": 55.7558, 
+    "lon": 37.6173
   },
   {
     "name": "Sophia Garcia",
@@ -61,7 +75,9 @@
     "description": "Creative graphic designer with a keen eye for detail and a strong aesthetic sense.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Sophia+Garcia",
     "mail_id": "sophia.garcia@example.com",
-    "redirect_link": "https://www.example.com/sophia_garcia"
+    "redirect_link": "https://www.example.com/sophia_garcia",
+    "lat": -34.6037, 
+    "lon": -58.3816
   },
   {
     "name": "William Lee",
@@ -69,7 +85,9 @@
     "description": "Results-driven sales executive with a proven ability to exceed targets and drive revenue growth.",
     "image_link": "https://placehold.co/600x400/orange/black?text=William+Lee",
     "mail_id": "william.lee@example.com",
-    "redirect_link": "https://www.example.com/william_lee"
+    "redirect_link": "https://www.example.com/william_lee",
+    "lat": 48.8566, 
+    "lon": 2.3522
   },
   {
     "name": "Olivia Martinez",
@@ -77,7 +95,9 @@
     "description": "Organized project coordinator with excellent communication and coordination skills.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Olivia+Martinez",
     "mail_id": "olivia.martinez@example.com",
-    "redirect_link": "https://www.example.com/olivia_martinez"
+    "redirect_link": "https://www.example.com/olivia_martinez",
+    "lat": -1.2921, 
+    "lon": 36.8219
   },
   {
     "name": "Daniel Kim",
@@ -85,7 +105,9 @@
     "description": "Skilled software developer with expertise in full-stack web development.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Daniel+Kim",
     "mail_id": "daniel.kim@example.com",
-    "redirect_link": "https://www.example.com/daniel_kim"
+    "redirect_link": "https://www.example.com/daniel_kim",
+    "lat": 34.0522, 
+    "lon": -118.2437
   },
   {
     "name": "Michelle Chen",
@@ -93,7 +115,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Michelle+Chen",
     "mail_id": "michelle.chen@example.com",
-    "redirect_link": "https://www.example.com/michelle_chen"
+    "redirect_link": "https://www.example.com/michelle_chen",
+    "lat": 19.4326, 
+    "lon": -99.1332
   },
   {
     "name": "Dr. Martha Maria Frysztacki",
@@ -101,7 +125,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://placehold.co/600x400/orange/black?text=Michelle+Chen",
     "mail_id": "https://openenergytransition.org/assets/img/people/marthamaria_cropped.jpg",
-    "redirect_link": "https://www.linkedin.com/in/marthamaria93/"
+    "redirect_link": "https://www.linkedin.com/in/marthamaria93/",
+    "lat": -26.2041, 
+    "lon": 28.0473
   },
   {
     "name": "Dr. Maximilian Parzen",
@@ -109,7 +135,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/maxparzen_cropped.jpg",
     "mail_id": "max.parzen@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/"
+    "redirect_link": "https://max-parzen.github.io/",
+    "lat": 35.6762, 
+    "lon": 139.6503
   },
   {
     "name": "Dr. Ekaterina Fedotova",
@@ -117,7 +145,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/ekaterinafedotova_cropped.jpg",
     "mail_id": "ekaterina.fedotova@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/"
+    "redirect_link": "https://max-parzen.github.io/",
+    "lat": 52.5200, 
+    "lon": 13.4050
   },
   {
     "name": "Dr. Fabian Hofmann",
@@ -125,7 +155,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/fabianhofmann_cropped.jpg",
     "mail_id": "fabian.hofmann@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/"
+    "redirect_link": "https://max-parzen.github.io/",
+    "lat": 50.0755, 
+    "lon": 14.4378
   },
   {
     "name": "Asst. Prof. Dr. Davide Fioriti",
@@ -133,7 +165,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/davidefioriti_cropped.jpg",
     "mail_id": "davide.fioriti@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/"
+    "redirect_link": "https://max-parzen.github.io/",
+    "lat": -22.9068, 
+    "lon": -43.1729
   },
   {
     "name": "Dr. Siddharth Krishna",
@@ -141,7 +175,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/siddharth.jpg",
     "mail_id": "siddharth.krishna@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/"
+    "redirect_link": "https://max-parzen.github.io/",
+    "lat": 28.6139, 
+    "lon": 77.2090
   },
   {
     "name": "Dr. Fabrizio Finozzi",
@@ -149,7 +185,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/ff_cropped.jpg",
     "mail_id": "fabrizio.finozzi@openenergytransition.org",
-    "redirect_link": "https://github.com/finozzifa"
+    "redirect_link": "https://github.com/finozzifa",
+    "lat": 30.0444, 
+    "lon": 31.2357
   },
   {
     "name": "Yerbol Akhmetov",
@@ -157,7 +195,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/akhmetovyerbol_cropped.jpg",
     "mail_id": "yerbol.akhmetov@openenergytransition.org",
-    "redirect_link": "https://github.com/finozzifa"
+    "redirect_link": "https://github.com/finozzifa",
+    "lat": 59.9343, 
+    "lon": 30.3351
   },
   {
     "name": "Akshat Mittal",
@@ -165,7 +205,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/akshatmittal_cropped.jpg",
     "mail_id": "akshat.mittal@openenergytransition.org",
-    "redirect_link": "https://github.com/finozzifa"
+    "redirect_link": "https://github.com/finozzifa",
+    "lat": 39.9042, 
+    "lon": 116.4074
   },
   {
     "name": "Hazem Abdel-Khalek",
@@ -173,7 +215,9 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/hazemabdelkhalek_cropped.jpg",
     "mail_id": "hazem.abdelkhalek@openenergytransition.org",
-    "redirect_link": "https://github.com/finozzifa"
+    "redirect_link": "https://github.com/finozzifa",
+    "lat": 41.9028, 
+    "lon": 12.4964
   },
   {
     "name": "Emmanuel Bolarinwa",
@@ -181,6 +225,8 @@
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/emmanuel_cropped.jpg",
     "mail_id": "gbotemibolarinwa@gmail.com",
-    "redirect_link": "https://github.com/finozzifa"
+    "redirect_link": "https://github.com/finozzifa",
+    "lat": 1.3521, 
+    "lon": 103.8198
   }
 ]
