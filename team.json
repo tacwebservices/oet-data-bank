@@ -1,151 +1,8 @@
 [
   {
-    "name": "jhon doe christ",
-    "designation": "wvgevwvwv",
-    "description": "afnewfew wefenvwv ewenewiv eiewnii4gv4 4fgi4jg4g4g wffwfgewgieg ewgw ew egwnge weigoegwe weofwe ewgwgwegweg weiwfjefef fwefwefwe ewfewfw",
-    "image_link": "https://placehold.co/600x400/orange/black?text=akshat+mittal",
-    "mail_id": "afnefefeefe@oet.com",
-    "redirect_link": "https://www.example.com/akshat_mittal",
-    "lat": 37.7749,
-    "lon": -122.4194,
-    "country": "Afghanistan"
-  },
-  {
-    "name": "another_name",
-    "designation": "another_designation",
-    "description": "another_description",
-    "image_link": "https://placehold.co/600x400/orange/black?text=another_name",
-    "mail_id": "another_mail@domain.com",
-    "redirect_link": "https://www.example.com/another_name",
-    "lat": -33.8688,
-    "lon": 151.2093,
-    "country": "Australia"
-  },
-  {
-    "name": "John Doe",
-    "designation": "Senior Engineer",
-    "description": "A highly skilled engineer with expertise in various programming languages.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=John+Doe",
-    "mail_id": "john.doe@example.com",
-    "redirect_link": "https://www.example.com/john_doe",
-    "lat": 51.5074,
-    "lon": -0.1278,
-    "country": "United Kingdom"
-  },
-  {
-    "name": "Jane Smith",
-    "designation": "Marketing Manager",
-    "description": "Experienced marketing professional with a proven track record of successful campaigns.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Jane+Smith",
-    "mail_id": "jane.smith@example.com",
-    "redirect_link": "https://www.example.com/jane_smith",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "country": "Japan"
-  },
-  {
-    "name": "Michael Johnson",
-    "designation": "Financial Analyst",
-    "description": "Detail-oriented financial analyst with expertise in financial modeling and forecasting.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Michael+Johnson",
-    "mail_id": "michael.johnson@example.com",
-    "redirect_link": "https://www.example.com/michael_johnson",
-    "lat": -23.5505,
-    "lon": -46.6333,
-    "country": "Brazil"
-  },
-  {
-    "name": "Emily Wang",
-    "designation": "HR Manager",
-    "description": "HR professional with extensive experience in recruitment and employee relations.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Emily+Wang",
-    "mail_id": "emily.wang@example.com",
-    "redirect_link": "https://www.example.com/emily_wang",
-    "lat": 40.7128,
-    "lon": -74.0060,
-    "country": "United States"
-  },
-  {
-    "name": "Alex Brown",
-    "designation": "Product Manager",
-    "description": "Product management expert with a passion for innovation and customer satisfaction.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Alex+Brown",
-    "mail_id": "alex.brown@example.com",
-    "redirect_link": "https://www.example.com/alex_brown",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "country": "Russia"
-  },
-  {
-    "name": "Sophia Garcia",
-    "designation": "Graphic Designer",
-    "description": "Creative graphic designer with a keen eye for detail and a strong aesthetic sense.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Sophia+Garcia",
-    "mail_id": "sophia.garcia@example.com",
-    "redirect_link": "https://www.example.com/sophia_garcia",
-    "lat": -34.6037,
-    "lon": -58.3816,
-    "country": "Argentina"
-  },
-  {
-    "name": "William Lee",
-    "designation": "Sales Executive",
-    "description": "Results-driven sales executive with a proven ability to exceed targets and drive revenue growth.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=William+Lee",
-    "mail_id": "william.lee@example.com",
-    "redirect_link": "https://www.example.com/william_lee",
-    "lat": 48.8566,
-    "lon": 2.3522,
-    "country": "France"
-  },
-  {
-    "name": "Olivia Martinez",
-    "designation": "Project Coordinator",
-    "description": "Organized project coordinator with excellent communication and coordination skills.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Olivia+Martinez",
-    "mail_id": "olivia.martinez@example.com",
-    "redirect_link": "https://www.example.com/olivia_martinez",
-    "lat": -1.2921,
-    "lon": 36.8219,
-    "country": "Kenya"
-  },
-  {
-    "name": "Daniel Kim",
-    "designation": "Software Developer",
-    "description": "Skilled software developer with expertise in full-stack web development.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Daniel+Kim",
-    "mail_id": "daniel.kim@example.com",
-    "redirect_link": "https://www.example.com/daniel_kim",
-    "lat": 34.0522,
-    "lon": -118.2437,
-    "country": "United States"
-  },
-  {
-    "name": "Michelle Chen",
-    "designation": "Content Writer",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Michelle+Chen",
-    "mail_id": "michelle.chen@example.com",
-    "redirect_link": "https://www.example.com/michelle_chen",
-    "lat": 19.4326,
-    "lon": -99.1332,
-    "country": "Mexico"
-  },
-  {
-    "name": "Dr. Martha Maria Frysztacki",
-    "designation": "Head of Energy and Power System Modelling, Co-founder",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Michelle+Chen",
-    "mail_id": "https://openenergytransition.org/assets/img/people/marthamaria_cropped.jpg",
-    "redirect_link": "https://www.linkedin.com/in/marthamaria93/",
-    "lat": -26.2041,
-    "lon": 28.0473,
-    "country": "South Africa"
-  },
-  {
     "name": "Dr. Maximilian Parzen",
     "designation": "CEO, Co-founder",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/maxparzen_cropped.jpg",
     "mail_id": "max.parzen@openenergytransition.org",
     "redirect_link": "https://max-parzen.github.io/",
@@ -154,12 +11,34 @@
     "country": "Germany"
   },
   {
+    "name": "Dr. Martha Maria Frysztacki",
+    "designation": "Head of Energy and Power System Modelling, Co-founder",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/marthamaria_cropped.jpg",
+    "mail_id": "martha.frysztacki@openenergytransition.org",
+    "redirect_link": "https://github.com/martacki",
+    "lat": -26.2041,
+    "lon": 28.0473,
+    "country": "Germany"
+  },
+  {
+    "name": "Victor Martinez MSc MBA",
+    "designation": "Head of Operations and Strategy",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/victormartinez_cropped.jpg",
+    "mail_id": "victor.martinez@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/victor-andres-martinez/",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "country": "United Kingdom"
+  },
+  {
     "name": "Dr. Ekaterina Fedotova",
     "designation": "Head of Energy and Climate System Modelling",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/ekaterinafedotova_cropped.jpg",
     "mail_id": "ekaterina.fedotova@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/",
+    "redirect_link": "https://github.com/ekatef",
     "lat": 52.5200,
     "lon": 13.4050,
     "country": "Germany"
@@ -167,40 +46,51 @@
   {
     "name": "Dr. Fabian Hofmann",
     "designation": "Senior Optimization and Energy System Modelling Expert",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/fabianhofmann_cropped.jpg",
     "mail_id": "fabian.hofmann@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/",
+    "redirect_link": "https://github.com/FabianHofmann",
     "lat": 50.0755,
     "lon": 14.4378,
-    "country": "Czech Republic"
+    "country": "Germany"
+  },
+  {
+    "name": "Dr. Oleg Lugovoy",
+    "designation": "Senior Energy System Modeller",
+    "description": "another_description",
+    "image_link": "https://openenergytransition.org/assets/img/people/oleglugovoy_cropped.jpg",
+    "mail_id": "oleg.lugovoy@openenergytransition.org",
+    "redirect_link": "https://github.com/olugovoy",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "country": "United States"
   },
   {
     "name": "Asst. Prof. Dr. Davide Fioriti",
-    "designation": "Expert in Global Energy System Modelling,, Co-founder",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "designation": "Expert in Global Energy System Modelling, Co-founder",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/davidefioriti_cropped.jpg",
     "mail_id": "davide.fioriti@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/",
+    "redirect_link": "https://github.com/davide-f",
     "lat": -22.9068,
     "lon": -43.1729,
-    "country": "India"
+    "country": "Italy"
   },
   {
     "name": "Dr. Siddharth Krishna",
     "designation": "Computer Scientist & Software Engineer",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/siddharth.jpg",
     "mail_id": "siddharth.krishna@openenergytransition.org",
-    "redirect_link": "https://max-parzen.github.io/",
+    "redirect_link": "https://siddharth-krishna.github.io/",
     "lat": 28.6139,
     "lon": 77.2090,
-    "country": "India"
+    "country": "Malawi"
   },
   {
     "name": "Dr. Fabrizio Finozzi",
     "designation": "Big Data Software Developer",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/ff_cropped.jpg",
     "mail_id": "fabrizio.finozzi@openenergytransition.org",
     "redirect_link": "https://github.com/finozzifa",
@@ -209,47 +99,91 @@
     "country": "Italy"
   },
   {
+    "name": "Dr. Manish Ram",
+    "designation": "Advisor Business Development and Fundraising",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/manishram_cropped.jpg",
+    "mail_id": "max.parzen@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/dr-manish-ram-75b89424/",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "country": "India"
+  },
+  {
+    "name": "Lukas Franken",
+    "designation": "Senior Energy System Modeller",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/lukasfranken_cropped.jpg",
+    "mail_id": "lukas.franken@ed.ac.uk",
+    "redirect_link": "https://github.com/LukasFrankenQ",
+    "lat": -23.5505,
+    "lon": -46.6333,
+    "country": "United Kingdom"
+  },
+  {
     "name": "Yerbol Akhmetov",
-    "designation": "Big Data Software Developer",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "designation": "Energy System Modelling Expert",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/akhmetovyerbol_cropped.jpg",
     "mail_id": "yerbol.akhmetov@openenergytransition.org",
-    "redirect_link": "https://github.com/finozzifa",
+    "redirect_link": "",
     "lat": 59.9343,
     "lon": 30.3351,
-    "country": "Russia"
+    "country": "Kazakhstan"
   },
   {
     "name": "Akshat Mittal",
-    "designation": "Big Data Software Developer",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "designation": "Full-Stack Developer",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/akshatmittal_cropped.jpg",
     "mail_id": "akshat.mittal@openenergytransition.org",
-    "redirect_link": "https://github.com/finozzifa",
+    "redirect_link": "",
     "lat": 39.9042,
     "lon": 116.4074,
-    "country": "China"
+    "country": "India"
   },
   {
     "name": "Hazem Abdel-Khalek",
     "designation": "Expert in Sector-Coupled Energy System Modelling, Co-founder",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/hazemabdelkhalek_cropped.jpg",
     "mail_id": "hazem.abdelkhalek@openenergytransition.org",
-    "redirect_link": "https://github.com/finozzifa",
+    "redirect_link": "https://www.linkedin.com/in/hazemakhalek/",
     "lat": 41.9028,
     "lon": 12.4964,
-    "country": "Italy"
+    "country": "Germany"
   },
   {
     "name": "Emmanuel Bolarinwa",
     "designation": "AI Engineer",
-    "description": "Creative content writer with a passion for storytelling and digital marketing.",
+    "description": "not necessary",
     "image_link": "https://openenergytransition.org/assets/img/people/emmanuel_cropped.jpg",
     "mail_id": "gbotemibolarinwa@gmail.com",
-    "redirect_link": "https://github.com/finozzifa",
+    "redirect_link": "https://www.linkedin.com/in/emmanuel-bolarinwa/",
     "lat": 1.3521,
     "lon": 103.8198,
-    "country": "Singapore"
+    "country": "Nigeria"
+  },
+  {
+    "name": "Bryan Ramirez",
+    "designation": "GIS Engineer, WebGIS Research",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/ramirezbryan_cropped.jpg",
+    "mail_id": "bryan.ramirez@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/bryan-ramirez-franco/",
+    "lat": 40.7128,
+    "lon": -74.0060,
+    "country": "Colombia"
+  },
+  {
+    "name": "Sermisha Narayana",
+    "designation": "Energy Systems Modeller",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/sermisha_cropped.jpg",
+    "mail_id": "sermisha.narayana@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/sermisha-narayana-6397b2108/",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "country": "India"
   }
 ]
