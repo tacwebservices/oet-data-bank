@@ -6,8 +6,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=akshat+mittal",
     "mail_id": "afnefefeefe@oet.com",
     "redirect_link": "https://www.example.com/akshat_mittal",
-    "lat": 37.7749, 
-    "lon": -122.4194
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "country": "Afghanistan"
   },
   {
     "name": "another_name",
@@ -16,8 +17,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=another_name",
     "mail_id": "another_mail@domain.com",
     "redirect_link": "https://www.example.com/another_name",
-    "lat": -33.8688, 
-    "lon": 151.2093
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "country": "Australia"
   },
   {
     "name": "John Doe",
@@ -26,8 +28,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=John+Doe",
     "mail_id": "john.doe@example.com",
     "redirect_link": "https://www.example.com/john_doe",
-    "lat": 51.5074, 
-    "lon": -0.1278
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "country": "United Kingdom"
   },
   {
     "name": "Jane Smith",
@@ -36,8 +39,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Jane+Smith",
     "mail_id": "jane.smith@example.com",
     "redirect_link": "https://www.example.com/jane_smith",
-    "lat": 35.6895, 
-    "lon": 139.6917
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "country": "Japan"
   },
   {
     "name": "Michael Johnson",
@@ -46,8 +50,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Michael+Johnson",
     "mail_id": "michael.johnson@example.com",
     "redirect_link": "https://www.example.com/michael_johnson",
-    "lat": -23.5505, 
-    "lon": -46.6333
+    "lat": -23.5505,
+    "lon": -46.6333,
+    "country": "Brazil"
   },
   {
     "name": "Emily Wang",
@@ -56,8 +61,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Emily+Wang",
     "mail_id": "emily.wang@example.com",
     "redirect_link": "https://www.example.com/emily_wang",
-    "lat": 40.7128, 
-    "lon": -74.0060
+    "lat": 40.7128,
+    "lon": -74.0060,
+    "country": "United States"
   },
   {
     "name": "Alex Brown",
@@ -66,8 +72,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Alex+Brown",
     "mail_id": "alex.brown@example.com",
     "redirect_link": "https://www.example.com/alex_brown",
-    "lat": 55.7558, 
-    "lon": 37.6173
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "country": "Russia"
   },
   {
     "name": "Sophia Garcia",
@@ -76,8 +83,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Sophia+Garcia",
     "mail_id": "sophia.garcia@example.com",
     "redirect_link": "https://www.example.com/sophia_garcia",
-    "lat": -34.6037, 
-    "lon": -58.3816
+    "lat": -34.6037,
+    "lon": -58.3816,
+    "country": "Argentina"
   },
   {
     "name": "William Lee",
@@ -86,8 +94,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=William+Lee",
     "mail_id": "william.lee@example.com",
     "redirect_link": "https://www.example.com/william_lee",
-    "lat": 48.8566, 
-    "lon": 2.3522
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "country": "France"
   },
   {
     "name": "Olivia Martinez",
@@ -96,8 +105,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Olivia+Martinez",
     "mail_id": "olivia.martinez@example.com",
     "redirect_link": "https://www.example.com/olivia_martinez",
-    "lat": -1.2921, 
-    "lon": 36.8219
+    "lat": -1.2921,
+    "lon": 36.8219,
+    "country": "Kenya"
   },
   {
     "name": "Daniel Kim",
@@ -106,8 +116,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Daniel+Kim",
     "mail_id": "daniel.kim@example.com",
     "redirect_link": "https://www.example.com/daniel_kim",
-    "lat": 34.0522, 
-    "lon": -118.2437
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "country": "United States"
   },
   {
     "name": "Michelle Chen",
@@ -116,8 +127,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Michelle+Chen",
     "mail_id": "michelle.chen@example.com",
     "redirect_link": "https://www.example.com/michelle_chen",
-    "lat": 19.4326, 
-    "lon": -99.1332
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "country": "Mexico"
   },
   {
     "name": "Dr. Martha Maria Frysztacki",
@@ -126,8 +138,9 @@
     "image_link": "https://placehold.co/600x400/orange/black?text=Michelle+Chen",
     "mail_id": "https://openenergytransition.org/assets/img/people/marthamaria_cropped.jpg",
     "redirect_link": "https://www.linkedin.com/in/marthamaria93/",
-    "lat": -26.2041, 
-    "lon": 28.0473
+    "lat": -26.2041,
+    "lon": 28.0473,
+    "country": "South Africa"
   },
   {
     "name": "Dr. Maximilian Parzen",
@@ -136,8 +149,9 @@
     "image_link": "https://openenergytransition.org/assets/img/people/maxparzen_cropped.jpg",
     "mail_id": "max.parzen@openenergytransition.org",
     "redirect_link": "https://max-parzen.github.io/",
-    "lat": 35.6762, 
-    "lon": 139.6503
+    "lat": 35.6762,
+    "lon": 139.6503,
+    "country": "Germany"
   },
   {
     "name": "Dr. Ekaterina Fedotova",
@@ -146,8 +160,9 @@
     "image_link": "https://openenergytransition.org/assets/img/people/ekaterinafedotova_cropped.jpg",
     "mail_id": "ekaterina.fedotova@openenergytransition.org",
     "redirect_link": "https://max-parzen.github.io/",
-    "lat": 52.5200, 
-    "lon": 13.4050
+    "lat": 52.5200,
+    "lon": 13.4050,
+    "country": "Germany"
   },
   {
     "name": "Dr. Fabian Hofmann",
@@ -156,18 +171,20 @@
     "image_link": "https://openenergytransition.org/assets/img/people/fabianhofmann_cropped.jpg",
     "mail_id": "fabian.hofmann@openenergytransition.org",
     "redirect_link": "https://max-parzen.github.io/",
-    "lat": 50.0755, 
-    "lon": 14.4378
+    "lat": 50.0755,
+    "lon": 14.4378,
+    "country": "Czech Republic"
   },
   {
     "name": "Asst. Prof. Dr. Davide Fioriti",
-    "designation": "Expert in Global Energy System Modelling,, Co-founder ",
+    "designation": "Expert in Global Energy System Modelling,, Co-founder",
     "description": "Creative content writer with a passion for storytelling and digital marketing.",
     "image_link": "https://openenergytransition.org/assets/img/people/davidefioriti_cropped.jpg",
     "mail_id": "davide.fioriti@openenergytransition.org",
     "redirect_link": "https://max-parzen.github.io/",
-    "lat": -22.9068, 
-    "lon": -43.1729
+    "lat": -22.9068,
+    "lon": -43.1729,
+    "country": "India"
   },
   {
     "name": "Dr. Siddharth Krishna",
@@ -176,8 +193,9 @@
     "image_link": "https://openenergytransition.org/assets/img/people/siddharth.jpg",
     "mail_id": "siddharth.krishna@openenergytransition.org",
     "redirect_link": "https://max-parzen.github.io/",
-    "lat": 28.6139, 
-    "lon": 77.2090
+    "lat": 28.6139,
+    "lon": 77.2090,
+    "country": "India"
   },
   {
     "name": "Dr. Fabrizio Finozzi",
@@ -186,8 +204,9 @@
     "image_link": "https://openenergytransition.org/assets/img/people/ff_cropped.jpg",
     "mail_id": "fabrizio.finozzi@openenergytransition.org",
     "redirect_link": "https://github.com/finozzifa",
-    "lat": 30.0444, 
-    "lon": 31.2357
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "country": "Egypt"
   },
   {
     "name": "Yerbol Akhmetov",
@@ -196,8 +215,9 @@
     "image_link": "https://openenergytransition.org/assets/img/people/akhmetovyerbol_cropped.jpg",
     "mail_id": "yerbol.akhmetov@openenergytransition.org",
     "redirect_link": "https://github.com/finozzifa",
-    "lat": 59.9343, 
-    "lon": 30.3351
+    "lat": 59.9343,
+    "lon": 30.3351,
+    "country": "Russia"
   },
   {
     "name": "Akshat Mittal",
@@ -206,8 +226,9 @@
     "image_link": "https://openenergytransition.org/assets/img/people/akshatmittal_cropped.jpg",
     "mail_id": "akshat.mittal@openenergytransition.org",
     "redirect_link": "https://github.com/finozzifa",
-    "lat": 39.9042, 
-    "lon": 116.4074
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "country": "China"
   },
   {
     "name": "Hazem Abdel-Khalek",
@@ -216,8 +237,9 @@
     "image_link": "https://openenergytransition.org/assets/img/people/hazemabdelkhalek_cropped.jpg",
     "mail_id": "hazem.abdelkhalek@openenergytransition.org",
     "redirect_link": "https://github.com/finozzifa",
-    "lat": 41.9028, 
-    "lon": 12.4964
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "country": "Italy"
   },
   {
     "name": "Emmanuel Bolarinwa",
@@ -226,7 +248,8 @@
     "image_link": "https://openenergytransition.org/assets/img/people/emmanuel_cropped.jpg",
     "mail_id": "gbotemibolarinwa@gmail.com",
     "redirect_link": "https://github.com/finozzifa",
-    "lat": 1.3521, 
-    "lon": 103.8198
+    "lat": 1.3521,
+    "lon": 103.8198,
+    "country": "Singapore"
   }
 ]
