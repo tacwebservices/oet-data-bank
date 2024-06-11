@@ -185,7 +185,7 @@
     "lat": 55.7558,
     "lon": 37.6173,
     "country": "India"
-  },,
+  },
   {
     "name": "Dr. Mario Dzamarija",
     "designation": "Energy Systems Modeller",
@@ -217,17 +217,6 @@
     "redirect_link": "https://www.example.com/jane_smith",
     "lat": 35.6895,
     "lon": 139.6917,
-    "country": "Japan"
-  },
-  {
-    "name": "Michael Johnson",
-    "designation": "Financial Analyst",
-    "description": "Detail-oriented financial analyst with expertise in financial modeling and forecasting.",
-    "image_link": "https://placehold.co/600x400/orange/black?text=Michael+Johnson",
-    "mail_id": "michael.johnson@example.com",
-    "redirect_link": "https://www.example.com/michael_johnson",
-    "lat": -23.5505,
-    "lon": -46.6333,
     "country": "Japan"
   }
 ]
