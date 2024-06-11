@@ -185,6 +185,17 @@
     "lat": 55.7558,
     "lon": 37.6173,
     "country": "India"
+  },,
+  {
+    "name": "Dr. Mario Dzamarija",
+    "designation": "Energy Systems Modeller",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/MarioDzamarijaCropped.jpg",
+    "mail_id": "mario.dzamarija@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/mdzzg/",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "country": "Croatia"
   },
   {
     "name": "John Doe",
