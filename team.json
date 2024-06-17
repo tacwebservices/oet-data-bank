@@ -198,6 +198,17 @@
     "country": "Croatia"
   },
   {
+    "name": "Kristijan Faust",
+    "designation": "Software Engineer",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/kristijan_faust_cropped.jpg",
+    "mail_id": "kristijan.faust@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/kristijan-faust",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "country": "Croatia"
+  },
+  {
     "name": "John Doe",
     "designation": "Senior Engineer",
     "description": "A highly skilled engineer with expertise in various programming languages.",
