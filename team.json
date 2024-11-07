@@ -300,6 +300,18 @@
     "country": "Germany"
   },
   {
+    "name": "Gianvito Colucci",
+    "designation": "Energy Systems Modeller",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/gianvito_colucci_cropped.jpg",
+    "mail_id": "gianvito.colucci@openenergytransition.org",
+    "website_link": "",
+    "github_link": "https://github.com/gianvito-colucci",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/gianvito-colucci/",
+    "country": "Italy"
+  },
+  {
     "name": "Snoopy",
     "designation": "Visionary and Head of Wellbeing",
     "description": "A highly skilled engineer with expertise in various programming languages.",
