@@ -36,6 +36,18 @@
     "website_link": ""
   },
   {
+    "country": "South Africa",
+    "description": "not necessary",
+    "designation": "Head of People",
+    "github_link": "https://github.com/QuintinCoetzee-CapeTown",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/quintin_coetzee_cropped.png",
+    "linkedin_link": "https://www.linkedin.com/in/quintincoetzee/",
+    "mail_id": "quintin.coetzee@openenergytransition.org",
+    "name": "Quintin Coetzee, MBSc (UCT)",
+    "twitter_link": "",
+    "website_link": "https://quintincoetzee.com/"
+  },
+  {
     "country": "Germany",
     "description": "not necessary",
     "designation": "Head of Energy and Climate System Modelling",
@@ -372,18 +384,6 @@
     "website_link": ""
   },
   {
-    "country": "Germany",
-    "description": "A highly skilled engineer with expertise in various programming languages.",
-    "designation": "Visionary and Head of Wellbeing",
-    "github_link": "",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/marthasnoopy_cropped.jpg",
-    "linkedin_link": "",
-    "mail_id": "",
-    "name": "Snoopy",
-    "twitter_link": "",
-    "website_link": "https://www.example.com/john_doe"
-  },
-  {
     "country": "Zambia",
     "description": "not necessary",
     "designation": "Junior Data and Energy Systems Modeller",
@@ -394,5 +394,17 @@
     "name": "Mwiche Simpemba",
     "twitter_link": "",
     "website_link": ""
+  },
+  {
+    "country": "Germany",
+    "description": "A highly skilled engineer with expertise in various programming languages.",
+    "designation": "Visionary and Head of Wellbeing",
+    "github_link": "",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/marthasnoopy_cropped.jpg",
+    "linkedin_link": "",
+    "mail_id": "",
+    "name": "Snoopy",
+    "twitter_link": "",
+    "website_link": "https://www.example.com/john_doe"
   }
 ]
